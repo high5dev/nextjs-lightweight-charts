@@ -1,0 +1,1110 @@
+{
+    "data": {
+        "betMarketListingHistory": [
+            {
+                "siteId": "FAN_DUEL",
+                "odds": [
+                    {
+                        "timeStamp": 1733160934,
+                        "americanOdds": 176,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733155125,
+                        "americanOdds": 164,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733150054,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733148359,
+                        "americanOdds": 194,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733147873,
+                        "americanOdds": 200,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733124925,
+                        "americanOdds": 194,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733103988,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733095298,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733095053,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733076199,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733056484,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733003431,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985064,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985044,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974886,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974878,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913460,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913442,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732905881,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732905872,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732899639,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732899629,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732898844,
+                        "americanOdds": 215,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732894255,
+                        "americanOdds": 225,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732894244,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732858235,
+                        "americanOdds": 225,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732817203,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732668851,
+                        "americanOdds": 225,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732668615,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732649795,
+                        "americanOdds": 225,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732649439,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732646889,
+                        "americanOdds": 225,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732646526,
+                        "americanOdds": 230,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "MGM",
+                "odds": [
+                    {
+                        "timeStamp": 1733225128,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733224894,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733224158,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733223932,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733208765,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733208541,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733169206,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733154024,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733116394,
+                        "americanOdds": 185,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733102452,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "DRAFT_KINGS",
+                "odds": [
+                    {
+                        "timeStamp": 1733231015,
+                        "americanOdds": 154,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158097,
+                        "americanOdds": 160,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733157128,
+                        "americanOdds": 154,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733156879,
+                        "americanOdds": 142,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733113070,
+                        "americanOdds": 185,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733102738,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733095926,
+                        "americanOdds": 195,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733075944,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733075457,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733075448,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733061576,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733061562,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985049,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985044,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974886,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974878,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913449,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913442,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732905881,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732905872,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732899639,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732899629,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732894250,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732894244,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732879844,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732879603,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732862231,
+                        "americanOdds": 205,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732815417,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "BOVADA",
+                "odds": [
+                    {
+                        "timeStamp": 1733225727,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733193985,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733179562,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733177656,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733176196,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733175391,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733173993,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733173309,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733172994,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733172942,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733172630,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733171342,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733170111,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733169452,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733169129,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733169072,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733168831,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733167660,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733166245,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165575,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165270,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165211,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733164956,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733163798,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733162384,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733161709,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733161400,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733161341,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733161045,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733160481,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733160247,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733159990,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "UNI_BET",
+                "odds": [
+                    {
+                        "timeStamp": 1733179054,
+                        "americanOdds": 163,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733162693,
+                        "americanOdds": 150,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733153801,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733145377,
+                        "americanOdds": 185,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733075590,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733069287,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733069274,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733064675,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733064633,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733061753,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733061729,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985049,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732985044,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974886,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732974878,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913449,
+                        "americanOdds": 210,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732913442,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "CAESARS",
+                "odds": [
+                    {
+                        "timeStamp": 1733231025,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733230473,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733229905,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733222943,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733222692,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733215729,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733215540,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733208349,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733208278,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733202369,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733202122,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733201120,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733201059,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733196410,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733196348,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733194105,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733193854,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733188482,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733188421,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733187986,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733187934,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733187467,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733187157,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733186968,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733186656,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733180098,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733172271,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733168175,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733168123,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733167975,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733167229,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733166774,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733166717,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733166403,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733166339,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165760,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165567,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165199,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733165071,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733160929,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733160402,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733160093,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733159635,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733159578,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733159261,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733159195,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158765,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158399,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158019,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733157891,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733157119,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733155467,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733154338,
+                        "americanOdds": 158,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733154031,
+                        "americanOdds": 152,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733153969,
+                        "americanOdds": 162,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733153642,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733150722,
+                        "americanOdds": 178,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733150657,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733150222,
+                        "americanOdds": 178,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "ESPN_BET",
+                "odds": [
+                    {
+                        "timeStamp": 1733225733,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733213154,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733209341,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733175754,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733170869,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733170629,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158433,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733157216,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733156977,
+                        "americanOdds": 160,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733155259,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733153792,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733151847,
+                        "americanOdds": 190,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733150370,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733149884,
+                        "americanOdds": 190,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733116485,
+                        "americanOdds": 195,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "BET_ONLINE_AG",
+                "odds": [
+                    {
+                        "timeStamp": 1733229542,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733218846,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733218614,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733194724,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733194467,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733175408,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733158535,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733156817,
+                        "americanOdds": 170,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733154118,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733153872,
+                        "americanOdds": 180,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            },
+            {
+                "siteId": "POINTS_BET",
+                "odds": [
+                    {
+                        "timeStamp": 1733210809,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733210077,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733196805,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733176483,
+                        "americanOdds": 175,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1733173825,
+                        "americanOdds": 165,
+                        "__typename": "BetMarketListingHistoryListType"
+                    },
+                    {
+                        "timeStamp": 1732691279,
+                        "americanOdds": null,
+                        "__typename": "BetMarketListingHistoryListType"
+                    }
+                ],
+                "__typename": "BetMarketSiteListingHistoryType"
+            }
+        ]
+    }
+}

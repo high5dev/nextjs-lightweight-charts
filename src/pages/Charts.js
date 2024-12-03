@@ -37,10 +37,10 @@ const BettingChart = () => {
         textColor: '#000000',  // Axis text color
       },
       rightPriceScale: {
-        visible: false, // Hide the right price scale (Y-axis)
+        visible: true, // Hide the right price scale (Y-axis)
       },
       leftPriceScale: {
-        visible: false, // Hide the left price scale (Y-axis)
+        visible: true, // Hide the left price scale (Y-axis)
       },
       crosshair: {
         mode: 0, // Disable crosshair
@@ -79,6 +79,15 @@ const BettingChart = () => {
         }, []);
 
       series.setData(sortedData);
+      
+      // Set initial zoom to the last N data points (e.g., 10)
+      const visiblePoints = 1; // Number of data points to show initially
+      if (sortedData.length > visiblePoints) {
+        chart.timeScale().setVisibleLogicalRange({
+          from: sortedData.length - visiblePoints,
+          to: sortedData.length - 1,
+        });
+      }
     });
 
     // Create custom labels above the chart
